@@ -6,7 +6,7 @@ function Card() {
         <Grid sx={{backgroundColor: 'red'}}>
             <h1>Componente card</h1>
         </Grid>
-    )
+    );
 }
 
 export default Card;
